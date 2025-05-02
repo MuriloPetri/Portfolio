@@ -1,10 +1,7 @@
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
-
 const ProjectSingle = ({ title, category, image }) => {
-
-	
 	return (
 		<motion.div
 			initial={{ opacity: 0 }}
@@ -36,7 +33,6 @@ const ProjectSingle = ({ title, category, image }) => {
 			</Link>
 		</motion.div>
 	);
-	
 };
 
 export default ProjectSingle;
