@@ -1,10 +1,10 @@
 export const aboutMeData = [
 	{
 		id: 1,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.',
+		bio: 'Sou estudante de Engenharia da Computação na UNIFESSPA, com uma grande paixão por tecnologia e programação desde a infância. Tenho experiência prática em diversas linguagens e ferramentas, incluindo Javascript, React, Node.js e MySQL, e estou sempre em busca de novos desafios para expandir meus conhecimentos.',
 	},
 	{
 		id: 2,
-		bio: 'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?',
+		bio: 'Ao longo da minha trajetória, atuei em projetos diversos, desenvolvendo soluções criativas e eficazes. Busco constantemente me aperfeiçoar, aplicando minhas habilidades para resolver problemas reais e contribuir para o desenvolvimento de soluções inovadoras',
 	},
 ];
